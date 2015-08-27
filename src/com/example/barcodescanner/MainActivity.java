@@ -37,6 +37,8 @@ import android.widget.Toast;
 import com.google.zxing.integration.android.IntentIntegrator;
 import com.google.zxing.integration.android.IntentResult;
 
+//Other library resource unlikely to ask for money: https://openlibrary.org/
+
 public class MainActivity extends Activity implements OnClickListener {
 
 	private Button scanBtn;
